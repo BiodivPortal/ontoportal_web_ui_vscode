@@ -1,0 +1,16 @@
+{
+    "ruby.useBundler": true,
+    "ruby.useLanguageServer": true,
+    "ruby.lint": {
+        "rubocop": {
+            "useBundler": true
+        },
+        "reek": {
+            "useBundler": true
+        }
+    },
+    "ruby.format": "rufo",
+    "ruby.intellisense": "rubyLocate",
+    "solargraph.useBundler": true,
+    "editor.formatOnSave": true
+}
